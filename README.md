@@ -58,5 +58,5 @@ A aplicação roda com usuário UID 1000, não-root, conforme boas práticas.
   ```
 
 ## Links
-- GitHub: [link do repositório]
-- Vídeo: [link da apresentação]
+- GitHub: [https://github.com/icaroalb1/cp2-docker-compose-fastapi]
+- Vídeo: [https://youtu.be/9UWPYJxRIsU?si=XlTKYiTwvOr3LFTr]
